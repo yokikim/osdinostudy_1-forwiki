@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T02:39:23.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="7sxOr_dfYtUw3QQrK0L7" version="21.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T02:42:57.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZVAj-6jnkeBQZ6tIVCJC" version="21.0.4" type="github">
   <diagram name="페이지-1" id="n3RXy5TaecH5F9pprPru">
     <mxGraphModel dx="1893" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -16,6 +16,9 @@
         </mxCell>
         <mxCell id="MIVFgeMHZ0te0d28bf9U-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;물리 메모리는 프레임이라 불리는 같은 크기의 블록으로 나누어진다.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MIVFgeMHZ0te0d28bf9U-2">
           <mxGeometry x="850" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MIVFgeMHZ0te0d28bf9U-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;프레임 블록 번호 :&lt;br&gt;n번째 프레임 블록&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MIVFgeMHZ0te0d28bf9U-2">
+          <mxGeometry x="560" y="550" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
